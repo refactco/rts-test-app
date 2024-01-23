@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{odMG:function(n,o,e){var p=e("3IO0");n.exports=function(n){return p(n).replace(/[a-z]/i,function(n){return n.toUpperCase()}).trim()}}}]);
+//# sourceMappingURL=npm.to-sentence-case14.js.map

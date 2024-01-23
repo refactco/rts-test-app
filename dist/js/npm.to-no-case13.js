@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"3IO0":function(n,t){n.exports=function(n){return(e.test(n)?n:r.test(n)?function(n){return n.replace(u,function(n,t){return t?" "+t:""})}(n)||n:o.test(n)?function(n){return n.replace(a,function(n,t,e){return t+" "+e.toLowerCase().split("").join(" ")})}(n):n).toLowerCase()};var e=/\s/,r=/(_|-|\.|:)/,o=/([a-z][A-Z]|[A-Z][a-z])/;var u=/[\W_]+(.|$)/g;var a=/(.)([A-Z]+)/g}}]);
+//# sourceMappingURL=npm.to-no-case13.js.map

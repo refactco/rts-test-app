@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{"P4o+":function(e,n,o){var r=o("odMG"),p=o("3LB2"),o=o("Nlhf");e.exports=function(e){return r(e).replace(/(^|\s)(\w)/g,function(e,n,o){return n+o.toUpperCase()}).replace(t,function(e){return e.toLowerCase()}).replace(a,function(e){return e.toUpperCase()})};var p=o.map(p),t=new RegExp("[^^]\\b("+p.join("|")+")\\b","ig"),a=/:\s*(\w)/g}}]);
+//# sourceMappingURL=npm.to-title-case15.js.map
